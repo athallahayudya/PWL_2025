@@ -47,4 +47,3 @@ class PenjualanDetailSeeder extends Seeder
         ]);
     }
 }
-

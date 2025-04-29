@@ -20,6 +20,6 @@ class KategoriSeeder extends Seeder
             ['kategori_id' => 3, 'kategori_kode' => 'BEAUTY', 'kategori_nama' => 'Kecantikan'],
             ['kategori_id' => 4, 'kategori_kode' => 'HOME', 'kategori_nama' => 'Peralatan Rumah'],
             ['kategori_id' => 5, 'kategori_kode' => 'BABY', 'kategori_nama' => 'Perlengkapan Bayi'],
-         ]);   
+        ]);
     }
 }

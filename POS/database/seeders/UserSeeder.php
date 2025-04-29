@@ -14,7 +14,7 @@ class UserSeeder extends Seeder
      */
     public function run(): void
     {
-        $data =[
+        $data = [
             [
                 'user_id' => 1,
                 'level_id' => 1,
